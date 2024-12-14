@@ -1,11 +1,10 @@
 ﻿# Default ignored files
 /shelf/
 /workspace.xml
+[Bb]in/
 # Rider ignored files
 /.idea/
 [Oo]bj/
-[Dd]ebug/
-[Dd]ebugPublic/
 *.sln.iml
 /.idea.ConsoleApp1.iml
 /modules.xml
